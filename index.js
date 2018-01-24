@@ -4,6 +4,7 @@ if (name === "Susan"){
   consonle.log("The name is correct")
 }else{
   consonle.log("Expected the name to be Susan")
+  
 }
 
 // Don't worry about this
